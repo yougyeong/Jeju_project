@@ -33,4 +33,4 @@
 - pdf파일 만들어서 업로드
 
 ## Tableau
-- .twbx : 태블로 대시보드 활용 
+- Jeju_project.twbx : 태블로 대시보드 활용 
