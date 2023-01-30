@@ -9,8 +9,8 @@
 - https://kosis.kr/index/index.do
 
 ## Analysis
-1. 제주특별자치도외국인관광객입도통계.xlsx (년도별 총 3개 데이터 활용)
-- 년도별 외국인 관광객 입도수 분석
+1. 제주특별자치도외국인관광객입도통계.xlsx (연도별 총 3개 데이터 활용)
+- 연도별 외국인 관광객 입도수 분석
 - 나라별 외국인 관광객 입도수 맵으로 표현
 
 
@@ -34,7 +34,7 @@
 
 
 ## Presentation
-- pdf파일 만들어서 업로드
+- Jeju_project.pdf : 태블로 스토리 pdf파일로 변환
 
 ## Tableau
-- Jeju_project.twbx : 태블로 대시보드 활용 
+- Jeju_project.twbx : 태블로 스토리 활용 
